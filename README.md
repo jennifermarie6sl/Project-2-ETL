@@ -3,7 +3,7 @@
 In this project a web application is built that scrapes various websites for data related to the Mission to Mars and displays the information in a single HTML page. 
 
 ## Data Selection - Extract
-I pulled CSV data files from Kaggle, A Happiness rating by country for 2015, another for 2016, as well as a Suicide Rates from 1985 until 2016.  I used Pandas to Extract the data for cleaning. 
+I pulled CSV data files from Kaggle, A Happiness rating by country for 2015 (called 2015.csv), another for 2016 (called 2016.csv), as well as a Suicide Rates from 1985 until 2016 (called master.csv).  I used Pandas to Extract the data for cleaning. 
 
 ## Data Cleaning - Transform
 Happiness Ratings for 2015 and 2016:
