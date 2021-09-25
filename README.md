@@ -16,7 +16,7 @@ Suicide Ratings:
 - I ran some functions to clean up and reduce the data but later decided to keep the data and let the DataBase queries handle any sorts and filters and calculations that might be desired. 
 
 ## DataBase Loading- Load
-Once the data was cleaned up I used pandas to turn the dataframe into a dictionary and pymongo to load the data into a "happy_db" MongoDB DataBase with collection names of "happy" and "suicide."  MongoDB was used since the data was not as structured as I would need for a SequelAlchemy DataBase.  An additional collection may be needed in order to join the happy and suicide collections.  
+Once the data was cleaned up I used pandas to turn the dataframe into a dictionary and pymongo to load the data into a "happy_db" MongoDB DataBase with collection names of "happy" and "suicide."  MongoDB was used since the data was not as structured as I would need for a SequelAlchemy DataBase.    
 
 ## Author
 
